@@ -26,7 +26,9 @@
 	}
 	?>
 	<div id="footer">
-		<a href="https://pvacarrasco.github.io/opticaa/index.html">Creado por Paola Armenta</a>
+		<a href="https://pvacarrasco.github.io/opticaa/index.html" title="Master">Creado por Paola Armenta</a>
+		
+	
 	</div>
 </body>
 </html>
